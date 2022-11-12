@@ -7,7 +7,7 @@
         {
             "name": "(gdb) Launch",
             "type": "cppdbg",
-            "request": "launch",
+            "request": "launch",cc
             "program": "${workspaceFolder}/build/libgit2_tests",
             "args": [],
             "stopAtEntry": false,
